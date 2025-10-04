@@ -1,7 +1,8 @@
 # 🚀 System Design Learning Resources
 
 This repository contains free resources to learn **System Design concepts**, understand **real-world architectural patterns**, and prepare for interviews.  
-✅ **Start here if you are new:** System Design can feel HARD until you understand these fundamental concepts.
+
+✅ **Start here if you are new:** [System Design can feel HARD until you understand these fundamental concepts](https://medium.com/@s.g.manikandan/essential-system-design-fundamentals-every-developer-should-master-40e203945d51)
 
 ---
 
